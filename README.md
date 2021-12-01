@@ -1,2 +1,2 @@
-# Naive Bayes
+# Naive Bayes - Education
  
